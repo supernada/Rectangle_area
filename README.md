@@ -1,4 +1,4 @@
-﻿# playing_function
+﻿# Rectangle_Area
 
 hi there
 
@@ -8,3 +8,4 @@ Thanks.
 Oh. Sorry. I forgot readme was supposed to talk about the program.
 
 Simple Rust based program to calculate the area of a rectangle and also show the inputs. Really, that's all, I'm sorry. I'm trying, okay?
+
